@@ -5,13 +5,6 @@ The system features two analog input channels, each equipped with a 2 kHz band-p
 RMII - DataHub for ESP32 is capable of both edge-level signal processing and real-time Ethernet communication, making it suitable for industrial monitoring, environmental sensing, acoustic analysis, and IoT-based data acquisition systems.
 
 ### ⚙️ **Technical Specifications**
-- **Microcontroller:** ESP32 (dual-core, Wi-Fi + Ethernet support)  
-- **Ethernet Interface:** RMII with LAN8720 PHY  
-- **Analog Inputs:** 2 channels with 2 kHz band-pass filtering  
-- **Temperature Sensor:** STH40 (I²C-based)  
-- **Connectivity:** Ethernet (TCP/IP), optional Wi-Fi  
-- **Applications:** Industrial IoT monitoring, data acquisition systems, environmental measurement nodes  
-
 | Specification        | Description |
 |----------------------|-------------|
 | **Microcontroller**  | ESP32 (dual-core, Wi-Fi + Ethernet support) |
