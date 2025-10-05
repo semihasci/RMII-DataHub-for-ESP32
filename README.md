@@ -13,3 +13,7 @@ RMII - DataHub for ESP32 is capable of both edge-level signal processing and rea
 | **Temperature Sensor** | STH40 (I²C-based) |
 | **Connectivity**     | Ethernet (TCP/IP), optional Wi-Fi |
 | **Applications**     | Industrial IoT monitoring, data acquisition systems, environmental measurement nodes |
+
+<p align="center">
+  <img src="image-01.jpeg" alt="RMII-DataHub-for-ESP32" width="400"/>
+</p>
